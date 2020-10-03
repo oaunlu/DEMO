@@ -29,4 +29,8 @@ public class Player : MonoBehaviour
                                                                             sphere.GetComponent<Transform>().position.y, //buraya ve alttaki satıra posY ve posZ yazınca çalışmadı nedense
                                                                             sphere.GetComponent<Transform>().position.z);
     }
+    public void CutWood()
+    {
+        
+    }
 }
